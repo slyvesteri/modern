@@ -1,0 +1,13 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-securitygrid-client-side-solution",
+    "id": "d7abc83a-e36d-4e8d-8ec6-4cfc05509696",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+    
+  },
+  "paths": {
+    "zippedPackage": "solution/react-securitygrid.sppkg"
+  }
+}

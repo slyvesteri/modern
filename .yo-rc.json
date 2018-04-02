@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "react-securitygrid",
+    "libraryId": "d7abc83a-e36d-4e8d-8ec6-4cfc05509696",
+    "environment": "spo"
+  }
+}
